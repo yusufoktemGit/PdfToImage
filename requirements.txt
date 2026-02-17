@@ -1,0 +1,3 @@
+watchdog
+pdf2image
+pillow
